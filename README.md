@@ -1,16 +1,26 @@
-### Hi there 👋
+-----
 
-<!--
-**bytixo/bytixo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align = "center">
+<img src="https://media.discordapp.net/attachments/855899695373353001/886697640576827422/f4bf62b4de7f992c58a05606c0282392.gif">
+</p>
 
-Here are some ideas to get you started:
+-----
+### <p align="center">⚙️ &nbsp;Stats</p>
+<br>
+<p align="center">
+<a href="https://github.com/bytixo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bytixo&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bytixo&layout=compact&langs_count=8&theme=radical"/>
+</a>
+  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----
+### <p align="center">Socials</p>
+<br>
+<p align="center">
+  <img align="center" alt="My Twitter | @bytixoh" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</p>
+<br>
+
+-----
